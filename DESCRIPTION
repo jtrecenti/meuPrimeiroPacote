@@ -15,3 +15,5 @@ LazyData: true
 Imports: 
     ggplot2,
     magrittr
+URL: https://github.com/jtrecenti/meuPrimeiroPacote
+BugReports: https://github.com/jtrecenti/meuPrimeiroPacote/issues
